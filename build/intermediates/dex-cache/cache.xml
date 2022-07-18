@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\m\android-path-record-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_f2134f5b2ec640538438cba8758aadab16f46964.jar" />
+    </item>
+    <item
+        jar="D:\m\android-path-record-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_81a9c54d4af4399e7fd02b3cd61f2ab562466382.jar" />
+    </item>
+    <item
+        jar="C:\Users\86135\.gradle\caches\modules-2\files-2.1\com.amap.api\3dmap\7.6.0\6c6cf5d1fcdbe9a576c3325a72bf849fec7c1c08\3dmap-7.6.0.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="6c6cf5d1fcdbe9a576c3325a72bf849fec7c1c08">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\3dmap-7.6.0_166ecab98d364b7c9ef9861e955331c049ff8498.jar" />
+    </item>
+    <item
+        jar="C:\Users\86135\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_693f83457282d5164ba45efd2b68b40ebcae2128.jar" />
+    </item>
+    <item
+        jar="D:\m\android-path-record-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_2b9076e9d566dad13c48385f5dcaefec48c56171.jar" />
+    </item>
+    <item
+        jar="C:\Users\86135\.gradle\caches\modules-2\files-2.1\com.amap.api\location\5.2.0\2f69124fa8fac4d5b533429b75b5c3db46a47009\location-5.2.0.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="2f69124fa8fac4d5b533429b75b5c3db46a47009">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\location-5.2.0_45f301d2b22bab15b02bff5c9fbd1a564ed46e0a.jar" />
+    </item>
+    <item
+        jar="D:\m\android-path-record-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_80d1d3b7c9082ff334adbf6e52c2b307d42786fc.jar" />
+    </item>
+    <item
+        jar="D:\m\android-path-record-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="29.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\m\android-path-record-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_7425976b2cd8e390f49159bbc5671af5569b87c5.jar" />
+    </item>
+
+</items>
